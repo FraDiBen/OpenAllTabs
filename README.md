@@ -14,20 +14,21 @@ It's a super simple chrome extension which looks for synced devices (where you l
 
 _Note:_ You must have multiple synced devices to use this app, otherwise, there is no point to even look for an extension like this
 
-1. You have open tabs and windows on multiple __synced__ devices (for example multiple smartphone or multiple laptops)
+1. You have open tabs and windows on multiple __synced__ devices (for example multiple smartphones or multiple laptops)
 1. You need a specific tab on your laptop, or you want to consolidate all your tabs on your laptop
 1. ...and most importantly you don't want to copy URLs manually from your device to laptop or avoid using open tabs on your other devices
 
-\>\> Enter:
+Enter:
 
-![Opens All Tabs Meme](oatt.jpg)
-
+<p align="center">
+  <img alt="Opens All Tabs Meme" src="./oatt.jpg.png" />
+</p>
 
 ##### How does it work? 🤓
 
 1. Download the extension from Chrome Web Store, or clone this repository and load the Extension from Google Chrome Developer Mode 
-1. Click on the extension icon: ![icon](little_icon.png)
-1. The extension will search all your synced devices for the tabs and window in the background 
+1. Click on the extension icon: <img src="./little_icon.png" width="32" alt="chrome-icon">
+1. The extension will search all your synced devices for the tabs and windows in the background 
 1. For each device, it will open a new Chrome window on your laptop with all the tabs of that device.
 
 ###### Why?
