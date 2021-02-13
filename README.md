@@ -41,14 +41,14 @@ I like to read on my laptop, but what if I have 10 tabs open on my smartphone be
 
 ##### Todo 📝
 
-[] Show all synced device (with badge over icon)
-[] Choose from which synced device transfer the tabs
-[] Send multiple tabs between any two devices
-[] Create a Tab session with Save/Restore
-[] Add User options
-[] Improve code
-[] Improve UI
-[] Add Tests
+- [ ] Show all synced device (with badge over icon)
+- [ ] Choose from which synced device transfer the tabs
+- [ ] Send multiple tabs between any two devices
+- [ ] Create a Tab session with Save/Restore
+- [ ] Add User options
+- [ ] Improve code
+- [ ] Improve UI
+- [ ] Add Tests
 
 
 ###### Changelog 📗
