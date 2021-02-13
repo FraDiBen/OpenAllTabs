@@ -11,5 +11,10 @@
     "default_title": "Open All the Tabs!",
     "default_icon": "img/transfer.png"
   },
+  "icons": {
+    "16": "img/transfer.png",
+    "48": "img/transfer.png",
+    "128": "img/transfer.png" 
+  },
   "manifest_version": 2
 }

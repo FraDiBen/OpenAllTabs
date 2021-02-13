@@ -26,7 +26,7 @@ _Note:_ You must have multiple synced devices to use this app, otherwise, there 
 
 ##### How it works? 🤓
 
-1. Download the extension from Chrome Store
+1. Download the extension from Chrome Web Store
 1. Click on the extension icon
 1. It will list all the tabs and windows from your synced devices and for each device it will open a new Chrome window with all the tabs of that device.
 
