@@ -7,7 +7,6 @@ chrome.runtime.onInstalled.addListener(function() {
 
 
 chrome.browserAction.onClicked.addListener(function(tab) {
-  console.log("BA CLICKED on: " + tab.url );
   allDevicesToLaptop();
 });
 
@@ -15,7 +14,6 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 function allDevicesToLaptop(){
     // Get all devices  
   chrome.sessions.getDevices({}, function(devices) {
-    console.log("Device list is #"+ devices.length);
     devices.forEach(function(aDevice){
       // device name
       console.log(aDevice.deviceName +", sessions #"+aDevice.sessions.length);
@@ -24,11 +22,8 @@ function allDevicesToLaptop(){
       aDevice.sessions.forEach(function(sess){
         if(sess.tab){
           console.log(sess.tab.url);
-        } else {
-          console.log("No tab but a window with tabs #"+ sess.window.tabs.length);
-          
+        } else {  
           sess.window.tabs.forEach(function(tab){
-            console.log(">>> URL:" + tab.url);
             remoteDeviceURLs.push(tab.url);
           });
         }
@@ -38,7 +33,7 @@ function allDevicesToLaptop(){
       // Open a new window on the laptop with all te tabs of the remote device, this preloads 
       // all the pages, can be slow! 
       chrome.windows.create({
-        focused: false,
+        focused: true,
         type: "normal",
         url: remoteDeviceURLs,
       });
