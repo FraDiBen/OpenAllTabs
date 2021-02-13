@@ -55,3 +55,8 @@ I like to read on my laptop, but what if I have 10 tabs open on my smartphone be
 
 - v0.0.1:
 	- Just published a super easy-peasy pre-alpha version
+
+
+##### Credits 🧩
+
+- Icon made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>

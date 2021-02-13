@@ -9,7 +9,7 @@
   },
   "browser_action": {
     "default_title": "Open All the Tabs!",
-    "default_icon": "img/icon_generic.png"
+    "default_icon": "img/transfer.png"
   },
   "manifest_version": 2
 }
