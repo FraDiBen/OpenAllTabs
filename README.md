@@ -33,7 +33,7 @@ Enter:
 
 ###### Why?
 
-Cause it solves mu procrastination-&-forget behaviour with multiple tabs on multiple devices.
+Cause it solves my procrastination-&-forget behaviour with multiple tabs on multiple devices.
 
 I usually keep open lots of tabs on my devices, I do so as I can go back to each tab later and read the content at my pace. 
 I keep multiple tabs open because sometimes content of tabs looks interesting but not enough to be saved in my Favorite list.
