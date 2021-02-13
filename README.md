@@ -20,13 +20,13 @@ _Note:_ You must have multiple synced devices to use this app, otherwise, there 
 
 \>\> Enter:
 
-![Opens All Tabs Meme](oatb.jpeg)
+![Opens All Tabs Meme](oatt.jpg)
 
 
 ##### How does it work? 🤓
 
 1. Download the extension from Chrome Web Store, or clone this repository and load the Extension from Google Chrome Developer Mode 
-1. Click on the extension icon 
+1. Click on the extension icon: ![icon](little_icon.png)
 1. The extension will search all your synced devices for the tabs and window in the background 
 1. For each device, it will open a new Chrome window on your laptop with all the tabs of that device.
 
