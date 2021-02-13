@@ -8,7 +8,7 @@ Opens Tabs and Windows from Chrome synced devices to your laptop, in one click.
 
 ###### Tell me more 🤨...
 
-It's a super simple chrome extension which looks for synced devices (where you logged in as the same chrome user) - for example, your smartphone or another laptop you won - and duplicates all the tabs in a new Chrome window on your laptop, one per device.
+It's a super simple chrome extension which looks for synced devices (where you logged in as the same chrome user) - for example, your smartphone or another laptop you own - and duplicates all the tabs in a new Chrome window on your laptop, one per device.
 
 ##### Ok, but what problem it solves? 🙄 
 
